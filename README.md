@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Khoza
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning framer motion and improving my react and django skills
+- 🌱 I’m currently learning framer motion, improving my react and django skills and looking at potentially switch to Figma from Adobe XD 
 - 💞️ I’m looking to collaborate on any web development projects
 - 📫 How to reach via email on sinci98@protonmail.com or twitter @paul_sinci
 
