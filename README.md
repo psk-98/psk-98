@@ -8,7 +8,7 @@ React Django Developer
 *   🖥️  See my portfolio at [paulkhoza.netlify.app](http://paulkhoza.netlify.app)
 *   ✉️  You can contact me at [sinci98@protonmail.com](mailto:sinci98@protonmail.com)
 *   🧠  I'm learning blockchain long term and learn tests on my previous projects
-*   🤝  I'm open to collaborating on Django, React or Solidity
+*   🤝  I'm open to collaborating on Django, React or Solidity projects
    
 ### Skills 
 <p align="left">
