@@ -7,7 +7,7 @@ React | Nextjs | Django Dev
 *   🌍  I'm based in Pretoria, South Africa
 *   🖥️  See my portfolio at [paulkhoza.netlify.app](http://paulkhoza.netlify.app)
 *   ✉️  You can contact me at [sinci98@protonmail.com](mailto:sinci98@protonmail.com)
-*   🧠  I'm learning Shopify long term and doing some more Node.js and C# Backend projects
+*   🧠  I'm learning .Net and working towards Cloud certication
 *   🤝  I'm open to collaborating on Django and React projects
    
 ### Skills 
