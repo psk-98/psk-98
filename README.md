@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React | Nextjs | WordPress | Django Dev
 ----------------------
 
-*   🌍  I'm based in Pretoria, South Africa
+*   🌍  I'm based in Johannesburg, South Africa
 *   🖥️  See my portfolio at [paulkhoza.netlify.app](http://paulkhoza.netlify.app)
 *   ✉️  You can contact me at [sinci98@protonmail.com](mailto:sinci98@protonmail.com)
-*   🧠  I'm learning .Net and working towards Cloud certications
+*   🧠  I'm learning Java and working towards Cloud certications
 *   🤝  I'm open to collaborating on Django and React projects
    
 ### Skills 
