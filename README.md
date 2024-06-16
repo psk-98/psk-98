@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Paul
 ============================================================================================================================
 
-React | Nextjs | Django Dev
+React | Nextjs | WordPress | Django Dev
 ----------------------
 
 *   🌍  I'm based in Pretoria, South Africa
