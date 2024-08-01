@@ -5,7 +5,7 @@ React | Nextjs | WordPress | Django Dev
 ----------------------
 
 *   🌍  I'm based in Johannesburg, South Africa
-*   🖥️  See my portfolio at [paulkhoza.netlify.app](http://paul-khoza.netlify.app)
+*   🖥️  See my portfolio at [paul-khoza.netlify.app](http://paul-khoza.netlify.app)
 *   ✉️  You can contact me at [sinci98@protonmail.com](mailto:sinci98@protonmail.com)
 *   🧠  I'm learning C# and AWS
 *   🤝  I'm open to collaborating on Django, React and WordPress projects
