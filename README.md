@@ -5,7 +5,7 @@ React | Nextjs | Laravel | Python Dev
 ----------------------
 
 *   🌍  I'm based in Johannesburg, South Africa mainly working with Laravel at an agency
-*   🖥️  See my portfolio at [paul-khoza.netlify.app](http://paul-khoza.netlify.app)
+*   🖥️  See my portfolio at [paulkhoza.co.za](http://paulkhoza.co.za)
 *   ✉️  You can contact me at [sinci98@protonmail.com](mailto:sinci98@protonmail.com)
 *   🧠  I'm currently learning AWS, Kubernetes and improving my linux skills
 *   🤝  I'm open to collaborating on Django, Laravel and Nextjs projects
